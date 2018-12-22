@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Event Log -->
+<EventLogs>
+	<EventLog>
+		<TimeStamp>12/07/2018 00:00:10</TimeStamp>
+		<EventID>1</EventID>  
+	</EventLog>
+	<EventLog>
+		<TimeStamp>12/07/2018 00:00:10</TimeStamp>
+		<EventID>2</EventID>  
+	</EventLog>
+	<EventLog>
+		<TimeStamp>12/07/2018 00:00:10</TimeStamp>
+		<EventID>3</EventID>  
+	</EventLog>
+</EventLogs>
