@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProcessEventStateTransition>
+	<TaskEffect>
+		<TaskID>1</TaskID>
+		<PriorEffect>Setup</PriorEffect> 
+		<PostEffect>Login Successful</PostEffect>	
+	</TaskEffect>
+	<TaskEffect>
+		<TaskID>2</TaskID>
+		<PriorEffect>Login required</PriorEffect> 
+		<PostEffect>Login</PostEffect> 
+	</TaskEffect>
+</ProcessEventStateTransition>
